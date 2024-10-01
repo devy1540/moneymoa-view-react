@@ -1,0 +1,6 @@
+{
+  "url": "https://keycloak.devyoon.kr",
+  "realm": "jungryrealm",
+  "clientId": "moneymoa-test",
+  "onLoad": "login-required"
+}
